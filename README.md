@@ -7,7 +7,6 @@ This is the C++ code for the Connect4 game I made
 
 Below is a demo video:
 
+https://github.com/gaurdian2701/Connect4/assets/55644010/347b351b-8849-4363-b732-9de5d153eabf
 
-
-https://github.com/gaurdian2701/Connect4/assets/55644010/1d465c9b-182c-48aa-87ec-4e5f595f3f29
 
